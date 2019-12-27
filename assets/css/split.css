@@ -233,10 +233,10 @@ body.page-template-page-fullsingle-split {
                 transition-duration: 0.1s; }
 
 .split-listss .split-listt {
-  width: 30%;
+  width: 50%;
   display: inline-block;
   margin-bottom: 40px; }
-  @media (max-width: 2000px) {
+  @media (max-width: 2500px) {
     .split-listss .split-listt {
       width: 90%; } }
   .split-listss .split-listt h3 {
@@ -249,8 +249,8 @@ body.page-template-page-fullsingle-split {
     letter-spacing: 2px;
     opacity: 0.5; }
   .split-listss .split-listt ul li {
-    font-size: 16px;
-    line-height: 16px;
+    font-size: 12px;
+    line-height: 12px;
     margin-bottom: 12px; }
     .split-listss .split-listt ul li a {
       color: #848d96;
