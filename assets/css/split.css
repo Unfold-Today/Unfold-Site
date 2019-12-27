@@ -232,6 +232,35 @@ body.page-template-page-fullsingle-split {
         -webkit-transition-duration: 0.1s;
                 transition-duration: 0.1s; }
 
+.split-listss .split-listt {
+  width: 30%;
+  display: inline-block;
+  margin-bottom: 40px; }
+  @media (max-width: 2000px) {
+    .split-listss .split-listt {
+      width: 90%; } }
+  .split-listss .split-listt h3 {
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 11px;
+    line-height: 11px;
+    margin-bottom: 31px;
+    color: #848d96;
+    letter-spacing: 2px;
+    opacity: 0.5; }
+  .split-listss .split-listt ul li {
+    font-size: 16px;
+    line-height: 16px;
+    margin-bottom: 12px; }
+    .split-listss .split-listt ul li a {
+      color: #848d96;
+      -webkit-transition-duration: 0.5s;
+              transition-duration: 0.5s; }
+      .split-listss .split-listt ul li a:hover {
+        color: #269de4;
+        -webkit-transition-duration: 0.1s;
+                transition-duration: 0.1s; }
+
 .split-credit {
   opacity: 0.4; }
   .split-credit p {
